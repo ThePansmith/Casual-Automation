@@ -1,0 +1,22 @@
+{
+  "materialMappings": {
+    "infused_metal_plate": 2,
+    "infused_metal_nugget": 3,
+    "infused_metal_dust": 0,
+    "infused_metal_gear": 1,
+    "empowered_metal_ingot": 10,
+    "infused_metal_block": 5,
+    "red_alloy_block": 16,
+    "empowered_metal_block": 23,
+    "red_alloy_gear": 12,
+    "infused_metal_ingot": 4,
+    "empowered_metal_plate": 8,
+    "red_alloy_plate": 13,
+    "red_alloy_dust": 11,
+    "red_alloy_nugget": 14,
+    "empowered_metal_nugget": 9,
+    "empowered_metal_dust": 6,
+    "red_alloy_ingot": 15,
+    "empowered_metal_gear": 7
+  }
+}

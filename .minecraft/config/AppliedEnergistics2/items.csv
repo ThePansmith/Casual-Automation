@@ -6458,8 +6458,6 @@ appliedenergistics2:facade:0, Cable Facade - Casing
 appliedenergistics2:facade:0, Cable Facade - Ender Casing
 appliedenergistics2:facade:0, Cable Facade - Iron Casing
 appliedenergistics2:facade:0, Cable Facade - Block of Fluix Steel
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.itemIO.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.fluidIO.name
 appliedenergistics2:facade:0, Cable Facade - Missing
 appliedenergistics2:facade:0, Cable Facade - Missing
 appliedenergistics2:facade:0, Cable Facade - Missing
@@ -7460,8 +7458,6 @@ actuallyadditions:item_boots_crystal_white, Enori Crystal Boots
 actuallyadditions:item_paxel_crystal_white, Enori Crystal AIOT
 base:wrench, Wrench
 contenttweaker:fluixsteelblock:0, Block of Fluix Steel
-contenttweaker:itemio:0, tile.contenttweaker.itemIO.name
-contenttweaker:fluidio:0, tile.contenttweaker.fluidIO.name
 contenttweaker:facade, item.contenttweaker.facade.name
 contenttweaker:material_part:0, Infused Metal Dust
 contenttweaker:material_part:1, Infused Metal Gear

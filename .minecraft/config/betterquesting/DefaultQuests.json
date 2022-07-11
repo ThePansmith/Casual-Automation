@@ -4078,7 +4078,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "Flux Tools",
-          "desc:8": "These tools use RF instead of power, and their mining radius can be changed as well. Upgrading will increase speed, rf storage, and the max radius that can be mined at once."
+          "desc:8": "These tools use RF instead of durablity, and their mining radius can be changed as well. Upgrading will increase speed, rf storage, and the max radius that can be mined at once."
         }
       },
       "tasks:9": {

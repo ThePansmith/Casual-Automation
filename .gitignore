@@ -101,3 +101,6 @@ instance.cfg
 .minecraft/hei_bookmarks.ini
 .minecraft/config/betterquesting.cfg
 
+.minecraft/config/AppliedEnergistics2/VersionChecker.cfg
+.minecraft/config/AppliedEnergistics2/CustomRecipes.cfg
+.minecraft/config/splash.properties

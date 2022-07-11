@@ -392,6 +392,18 @@
 		"required": true
 	},  
 	{
+		"alias": "More Overlays",
+		"fileID": 2745657,
+		"projectID": 243478,
+		"required": true
+	},  
+	{
+		"alias": "AppleSkin",
+		"fileID": 2987247,
+		"projectID": 248787,
+		"required": true
+	},  
+	{
 		"alias": "WanionLib",
 		"fileID": 3597087,
 		"projectID": 253043,

@@ -4,7 +4,7 @@
 	{
 		"alias": "mixinbooter",
 		"fileID": 3687785,
-		"projectID": 3687785,
+		"projectID": 419286,
 		"required": true
 	},
 	{
@@ -299,12 +299,6 @@
 		"alias": "noautojump",
 		"fileID": 2856950,
 		"projectID": 341857,
-		"required": true
-	},
-	{
-		"alias": "openglider",
-		"fileID": 2464501,
-		"projectID": 252354,
 		"required": true
 	},
 	{

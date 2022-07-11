@@ -6130,7 +6130,7 @@
       "properties:10": {
         "betterquesting:10": {
           "name:8": "Mining away",
-          "desc:8": "A early method to automatically gather ores, how nice is that? \n\nThe §9Vertical Digger§r does exactly what the name implies, it will mine blocks under it, with a radius of 5x5, centered on the digger. It has two modes: \"Mining Everything\" and \"Only Mining Ores\", which does what it describes. It\u0027s radius is doubled when a §9Phantom Booster§r is placecd on top of it, and this can be stacked up to three times, leading to a radius of 33x33.  ",
+          "desc:8": "A early method to automatically gather ores, how nice is that? \n\nThe §9Vertical Digger§r does exactly what the name implies, it will mine blocks under it, with a radius of 5x5, centered on the digger. It has two modes: \"Mining Everything\" and \"Only Mining Ores\", which does what it describes. It\u0027s radius is doubled when a §9Phantom Booster§r is placed on top of it, and this can be stacked up to three times, leading to a radius of 33x33.  ",
           "icon:10": {
             "id:8": "actuallyadditions:block_miner",
             "Count:3": 1,

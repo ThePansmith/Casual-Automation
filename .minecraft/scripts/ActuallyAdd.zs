@@ -50,6 +50,18 @@ makeShaped("farmer", <actuallyadditions:block_empowerer>,
 	  B : <actuallyadditions:block_misc:2>
 	  });
 	
+recipes.remove(<actuallyadditions:block_canola_press>);
+makeShaped("press", <actuallyadditions:block_canola_press>,
+	["SES",
+	 "SCS",
+	 "SIS"],
+	{ S : <ore:stone>,
+	  I : <thermalfoundation:storage_alloy:2>,
+	  C : <thermalexpansion:machine:5>,
+	  E : <contenttweaker:material_part:4>
+	  });
+	  
+
 // Misc
 recipes.remove(<actuallyadditions:block_misc:9>);
 makeShaped("ironcasing", <actuallyadditions:block_misc:9>,
@@ -106,6 +118,9 @@ makeShaped("advcoil", <actuallyadditions:item_misc:8>,
 // Empowered Crystals
 for i in [0,1,2,3,4,5] as int[] {
 	mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered>.withDamage(i));
+}
+for i in [0,1,2,3,4,5] as int[] {
+	mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:block_crystal_empowered>.withDamage(i));
 }
 
 mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:item_crystal_empowered:3>, <actuallyadditions:item_crystal:3>, <thermalfoundation:material:160>, <thermalfoundation:material:802>, <minecraft:coal:1>, <actuallyadditions:item_misc:22>, 1000, 100, [0.5, 0.3, 0.2]);
